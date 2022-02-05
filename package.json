@@ -1,0 +1,15 @@
+{
+  "name": "desafio_06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
+  },
+  "author": "Julio C. Pariona V.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
